@@ -1,0 +1,58 @@
+body {
+
+}
+/* navbar */
+.navbar-brand {
+  color: #fff;
+  margin-left: 20px;
+}
+.navbar li a {
+  color: #fff;
+}
+.ml-auto {
+  margin-left: auto;
+  padding: 0 20px;
+  margin-right: 10px;
+}
+.btn {
+  margin-left: 20px;
+}
+/* Title Section */
+#title {
+  background-color: #032b43;
+  text-align: center;
+  margin-bottom: -7rem;
+}
+.logo {
+  position: relative;
+  bottom: 5rem;
+  width: 60%;
+  height: 60%;
+}
+/* Description Section */
+
+#description {
+  background-color: #3f88c5;
+  color: #ffba08;
+  padding: 10%;
+}
+
+.mission-statement {
+  padding-top: 20px;
+  font-size: 2rem;
+}
+
+.mission {
+  text-align: center;
+  font-size: 3rem;
+  line-height: 6rem;
+}
+.AllForFree {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+#picturesAndInfo {
+
+}
